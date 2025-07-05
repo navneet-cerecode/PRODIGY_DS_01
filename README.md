@@ -1,16 +1,16 @@
-# 📊 Task 1 - Population Distribution Visualization | Prodigy Infotech Internship (Data Science)
+# Task 1 - Population Distribution Visualization | Prodigy Infotech Internship (Data Science)
 
 This repository contains my submission for **Task 1** of the **Data Science Internship** at **Prodigy Infotech**.
 
 ---
 
-## 📌 Task Description
+## Task Description
 
 > **Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.**
 
 ---
 
-## 📁 Dataset Used
+## Dataset Used
 
 - **Source:** [World Bank - Total Population (SP.POP.TOTL)](https://data.worldbank.org/indicator/SP.POP.TOTL)
 - **File:** `API_SP.POP.TOTL_DS2_en_csv_v2_20333.csv`
@@ -18,7 +18,7 @@ This repository contains my submission for **Task 1** of the **Data Science Inte
 
 ---
 
-## 🎯 Objective
+## Objective
 
 To visualize how the **population of countries is distributed** in the most recent year (**2024**) using:
 - A **histogram** for all countries
@@ -26,22 +26,22 @@ To visualize how the **population of countries is distributed** in the most rece
 
 ---
 
-## ⚙️ Tools & Libraries
+## Tools & Libraries
 
-- Python 🐍
-- Pandas 📊
-- Seaborn 🎨
-- Matplotlib 📈
-- Jupyter Notebook 📓
+- Python 
+- Pandas 
+- Seaborn 
+- Matplotlib 
+- Jupyter Notebook 
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
-### ✅ Histogram (Log-Scaled) – 2024 Population Distribution
+### Histogram (Log-Scaled) – 2024 Population Distribution
 
 <p align="center">
-  <img src="assets/histogram_log_2024.png" alt="Population Histogram 2024" width="80%">
+  <img src="assets/histogram.png" alt="Population Histogram 2024" width="80%">
 </p>
 
 **Observation:**
